@@ -1,5 +1,5 @@
-name = input("What is your name?")
-length = int(input("Hello! Input the length")
-width = int(input("Input the width")
+name = input("Hello! Please enter your name:")
+length = int(input("OK, now please input the length:"))
+width = int(input("Now input the width"))
 area = length*width
 print(name+", the area of the rectangle is "+str(area))
